@@ -1,6 +1,6 @@
 
 
- ## [Watch video description by cklick on this link ](https://youtu.be/7VAOEVAKvGg "Watch video description")
+ ## [Watch video description by click on this link ](https://youtu.be/7VAOEVAKvGg "Watch video description")
 
 
 # programming_course_project
@@ -57,6 +57,3 @@ going to use is available there together with first functional and nonfunctional
 environment presented.
 
 :arrow_heading_up: Further descriprion can be found on the WikiPages.
-## Authors:
-- [Gapunovych Yulia](https://github.com/YulitaGap)
-- [Shuvar Sophia](https://github.com/sophiashuv)
